@@ -1,0 +1,1 @@
+Static assets can go here (like logos, images, etc.).
